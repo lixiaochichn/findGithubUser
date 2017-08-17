@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, Heiti, “黑体”, “Microsoft YaHei”, “微软雅黑”, SimSun, “宋体”, sans-serif;
+}
+
+.mytitle {
+    /*background-color: black;*/
+    text-align: center;
+    font-size: 60px;
+    color: LightSlateGray;
+    margin-top: 20px;
+}
+
+.field {
+    margin: 20px auto;
+    width: 80vw;
+}
