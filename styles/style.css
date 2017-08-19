@@ -7,12 +7,48 @@
 .mytitle {
     /*background-color: black;*/
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
     color: LightSlateGray;
-    margin-top: 20px;
+    margin-top: 10px;
+    font-weight: bold;
 }
 
-.field {
+.field,
+.panel {
+    margin: 10px auto;
+    width: 80vw;
+}
+
+.usercard {
     margin: 20px auto;
     width: 80vw;
+}
+
+.usertitle {
+    font-size: 16px;
+}
+
+.username {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.userimage {
+    height: 240px;
+    width: 240px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
+}
+
+.githubhome {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.githubcat {
+    display: inline-block;
+    margin-right: 8px;
 }
