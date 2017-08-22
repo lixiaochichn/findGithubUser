@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, Heiti, “黑体”, “Microsoft YaHei”, “微软雅黑”, SimSun, “宋体”, sans-serif;
+    /*overflow: hidden;*/
 }
 
 .mytitle {
@@ -51,4 +52,13 @@
 .githubcat {
     display: inline-block;
     margin-right: 8px;
+}
+
+.star-icon {
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+.fa-star {
+    margin-left: 10px;
 }
